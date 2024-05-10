@@ -1,0 +1,37 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "email": "kevinmathew365@gmail.com",
+      "username": "Kevin Matthew Franklin",
+      "password": "Kevin@20"
+    },
+    {
+      "id": "2",
+      "email": "pugalp702@gmail.com",
+      "username": "Pugal",
+      "password": "Pugal@46"
+    },
+    {
+      "id": "3",
+      "email": "viwin@gmail.com",
+      "username": "Viwin P",
+      "password": "Viwin@61"
+    },
+    {
+      "id": "4",
+      "email": "ca225213131@bhc.edu.in",
+      "username": "Jamal",
+      "password": "Shake Mavan"
+    }
+  ],
+
+  "admin": [
+    {
+      "id": "1",
+      "email": "kevinmathew365@gmail.com",
+      "username": "admin",
+      "password": "admin"
+    }
+  ]
+}
